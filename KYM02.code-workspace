@@ -1,0 +1,10 @@
+1{
+	"folders": [
+		{
+			"path": "E:\\React Native\\AwesomeProject"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "testserver01"
+	}
+}

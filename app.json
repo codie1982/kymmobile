@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Köyüm Mutfak",
+    "slug": "restorant-siparis_v2",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.6",
+    "orientation": "portrait",
+    "icon": "./assets/kymicon.png",
+    "splash": {
+      "image": "./assets/kymsplash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.grntsoftware.kymsip",
+      "versionCode": 6,
+      "permissions": [],
+      "icon": "./assets/kymicon.png"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Otomatik Restorant Siparis Sistemi_V2"
+  }
+}
