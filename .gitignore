@@ -11,7 +11,7 @@ web-build/
 web-report/
 
 #Android Klasörü içindeki assetler
-android/**/*
+android
 
 # macOS
 .DS_Store
